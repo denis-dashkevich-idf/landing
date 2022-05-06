@@ -34,7 +34,7 @@ button {
       rgba(237, 215, 137, 0.9) 0%,
       rgba(233, 130, 131, 0.9) 100%
     ),
-    url("/assets/images/promo-bg.jpg");
+    url("./assets/images/promo-bg.jpg");
   background-size: cover, cover;
   background-repeat: no-repeat, no-repeat;
   background-position: center, center;
